@@ -1,1 +1,3 @@
 server2/development.sqlite3
+# Local Netlify folder
+.netlify
